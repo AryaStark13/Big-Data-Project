@@ -1,0 +1,4 @@
+data
+dashboard-viz-streamlit/__pycache__/
+dashboard-viz-streamlit/internal/
+dashboard-viz-streamlit/./all_data_v2
