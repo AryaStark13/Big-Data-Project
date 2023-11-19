@@ -6,7 +6,7 @@
 ### Description
 
 ## Dashboard
-An interactive data analysis & visualizations dashboard using python libraries including streamlit, pandas, matplotlib, plotly, pydeck, etc. for the Baker Hughes Gas Turbine dataset. The dashboard is deployed on Streamlit and can be accessed ![here](https://jay4codes-tamu-datathon-main-orrlds.streamlit.app/)
+An interactive data analysis & visualizations dashboard using python libraries including streamlit, pandas, matplotlib, plotly, pydeck, etc. for the Baker Hughes Gas Turbine dataset. The dashboard is deployed on Streamlit and can be accessed [here](https://jay4codes-tamu-datathon-main-orrlds.streamlit.app/)
 
 ## Data Pipeline
 We have multiple engine data and site data
